@@ -17,7 +17,7 @@ For this project I was allowed to use any language I wanted to use, so I looked 
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
-|Week 1 | --- | --- | --- | --- | --- |
+|Week 1 | --- | --- | Made a plan for this project/software analysis | Made a simple version of the random map generation | Creating the webpage and github repository |
 
 ## Sources
 
